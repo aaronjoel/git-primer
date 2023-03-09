@@ -1,3 +1,3 @@
-name = input("What is your name? ")
-print(f"Goodbye, {name}!")
+name = input("What is your name? Adesewa ")
+print(f"Goodbye, {Joel}!")
 
