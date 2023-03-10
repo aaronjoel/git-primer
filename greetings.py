@@ -1,3 +1,4 @@
 name = input("What is your name? ")
-changes oooooooo
+hour = datetime.now().time().hour
+greeting = "Good morning" if 4 <= hour < 12 else "Good afternoon" if 12 <= hour < 16 else "Good n
 print(f"Goodbye, {name}!")
